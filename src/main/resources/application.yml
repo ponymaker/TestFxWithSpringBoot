@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: "off"
+  jmx:
+    enabled: "false"
+
+ui:
+  main:
+    title: "Test App"
+  test:
+    fxml: "test.fxml"
